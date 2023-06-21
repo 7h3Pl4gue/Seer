@@ -1,6 +1,8 @@
 # Seer
 
-Rebuilt Ironside to now include the option to select directory mode or subdomains, still able to select wordlists, status codes are color coded.
+Nice little subdomain finder!
+
+Nothing super exicitng but just a little something I made when I was bored.
 
 Besure to run pip install -r requirements.txt
 
